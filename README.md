@@ -9,8 +9,8 @@ Task Manager is a simple JavaFX application that allows users to add, remove, an
 - Tasks are saved to a file called "tasks.json" and are loaded when the application starts up
 ### Requirements
 Java 11 or later
--Gson library
--JavaFX library
+- Gson library
+- JavaFX library
 ### Building and Running the Application
 Clone the repository to your local machine
 Copy code
