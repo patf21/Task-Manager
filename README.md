@@ -12,12 +12,12 @@ Java 11 or later
 - Gson library
 - JavaFX library
 ### Building and Running the Application
-- Clone the repository to your local machine
-- Copy code
-- git clone https://github.com/YOUR_USERNAME/TaskManager.git
-- Open the project in an IDE of your choice (e.g. IntelliJ IDEA)
-- Make sure that you have Gson and JavaFX libraries added as dependencies in your project
-- Run the main method in the Main class
+1. Clone the repository to your local machine using the command git clone https://github.com/YOUR_USERNAME/Task-Manager.git
+2. Open the project in an IDE of your choice (e.g. IntelliJ IDEA)
+3. Make sure that you have Gson and JavaFX libraries added as dependencies in your project. If not, you can add them by following the instructions provided by your IDE or by manually adding the jar files to your project.
+4. Locate the Main class in the project, it should contain a main method.
+5. Run the main method by clicking on the play button or by pressing the key combination ctrl+shift+f10 (IntelliJ IDEA)
+6. The application should now be running, you should be able to add, remove, and view tasks.
 ### Note
 - If the "tasks.json" file does not exist, it will be created when the first task is added.
 ### Contribution
