@@ -1,4 +1,4 @@
-####### Task Manager
+### Task Manager
 - Task Manager is a simple JavaFX application that allows users to add, remove, and view tasks.
 
 ### Features
